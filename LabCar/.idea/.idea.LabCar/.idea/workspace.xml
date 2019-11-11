@@ -9,12 +9,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/TestScropt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2CBD75C0-A7C4-43B0-B3CF-A4B1A24909D2/7f/e4f12765/Component.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CarMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/CarMovement.MoveAndRotate.cs" />
         <option value="$PROJECT_DIR$/Assets/CarMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestScropt.cs" />
       </list>
     </option>
   </component>
@@ -72,6 +76,12 @@
       <workItem from="1569344773217" duration="413000" />
       <workItem from="1569603739905" duration="1108000" />
       <workItem from="1569690369740" duration="880000" />
+      <workItem from="1571722449406" duration="6327000" />
+      <workItem from="1572965825324" duration="2844000" />
+      <workItem from="1573032827167" duration="470000" />
+      <workItem from="1573042531423" duration="5684000" />
+      <workItem from="1573297966679" duration="12530000" />
+      <workItem from="1573483162166" duration="2569000" />
     </task>
     <servers />
   </component>
